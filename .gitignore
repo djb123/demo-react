@@ -22,3 +22,7 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+
+# Local source material and intermediate OCR output
+leadership-cards-source.pdf
+.card-extraction/

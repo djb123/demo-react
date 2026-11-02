@@ -1,0 +1,437 @@
+[
+  {
+    "id": "context-leading-when-youre-emotionally-triggered",
+    "number": 26,
+    "category": "context",
+    "title": "Leading When You’re Emotionally Triggered",
+    "front": [
+      {
+        "text": "Emotions are high. Reaction is tempting. How you show up will often shape the outcome more than your words."
+      },
+      {
+        "text": "Adjust before you act."
+      }
+    ],
+    "back": [
+      {
+        "heading": "Leader adjustment",
+        "text": "• Pause before responding or deciding anything\n• Name the emotion internally, not externally\n• Choose timing and setting intentionally"
+      },
+      {
+        "heading": "Ask yourself",
+        "text": "What outcome do I want from this conversation?"
+      },
+      {
+        "text": "Strong emotions push leaders to act before they’re ready."
+      }
+    ],
+    "related": [],
+    "sourcePage": 16
+  },
+  {
+    "id": "context-leading-without-formal-authority",
+    "number": 27,
+    "category": "context",
+    "title": "Leading Without Formal Authority",
+    "front": [
+      {
+        "text": "You don’t have the title. Influence matters most here. Authority won't carry this conversation, trust and credibility will."
+      },
+      {
+        "text": "Adjust before you act."
+      }
+    ],
+    "back": [
+      {
+        "heading": "Leader adjustment",
+        "text": "• Lead with credibility, not positional control\n• Ask before directing\n• Build alignment before expecting compliance"
+      },
+      {
+        "heading": "Ask yourself",
+        "text": "What does this person care about most and how can I influence them?"
+      },
+      {
+        "text": "Influence grows faster than authority."
+      }
+    ],
+    "related": [],
+    "sourcePage": 17
+  },
+  {
+    "id": "context-leading-someone-more-experienced-than-you",
+    "number": 28,
+    "category": "context",
+    "title": "Leading Someone More Experienced Than You",
+    "front": [
+      {
+        "text": "They bring deep experience. Their perspective matters. You don’t have to know more than them to have this conversation."
+      },
+      {
+        "text": "Adjust before you act."
+      }
+    ],
+    "back": [
+      {
+        "heading": "Leader adjustment",
+        "text": "• Lead with curiosity, not comparison\n• Invite experience as an asset, not a threat\n• Leverage their insights for the benefit of the team"
+      },
+      {
+        "heading": "Ask yourself",
+        "text": "Am I respecting their experience and insights?"
+      },
+      {
+        "text": "Humility and curiosity lay a foundation of trust and respect."
+      }
+    ],
+    "related": [],
+    "sourcePage": 17
+  },
+  {
+    "id": "context-leading-a-low-performer",
+    "number": 29,
+    "category": "context",
+    "title": "Leading a Low Performer",
+    "front": [
+      {
+        "text": "Performance is below the standard. The issue isn’t fixing itself. Pressure feels tempting here, but clarity usually works better."
+      },
+      {
+        "text": "Adjust before you act."
+      }
+    ],
+    "back": [
+      {
+        "heading": "Leader adjustment",
+        "text": "• Slow down before applying pressure or consequences\n• Separate clarity issues from accountability issues\n• Diagnose effort, energy, and expectations before correcting behavior"
+      },
+      {
+        "heading": "Ask yourself",
+        "text": "Is this a clarity problem, a capability problem, or a commitment problem?"
+      },
+      {
+        "text": "Low performance requires clarity before pressure."
+      }
+    ],
+    "related": [],
+    "sourcePage": 18
+  },
+  {
+    "id": "context-leading-a-high-performer-with-a-bad-attitude",
+    "number": 30,
+    "category": "context",
+    "title": "Leading a High Performer with a Bad Attitude",
+    "front": [
+      {
+        "text": "Results are strong. Behavior is costly. Others notice. Their results are buying them more room than they should have."
+      },
+      {
+        "text": "Adjust before you act."
+      }
+    ],
+    "back": [
+      {
+        "heading": "Leader adjustment",
+        "text": "• Separate performance from behavior\n• Address impact without excusing results\n• Reinforce standards consistently"
+      },
+      {
+        "heading": "Ask yourself",
+        "text": "What behavior am I tolerating because the results are strong?"
+      },
+      {
+        "text": "Performance never excuses behavior."
+      }
+    ],
+    "related": [],
+    "sourcePage": 18
+  },
+  {
+    "id": "context-leading-someone-who-doesnt-respect-you",
+    "number": 31,
+    "category": "context",
+    "title": "Leading Someone Who Doesn’t Respect You",
+    "front": [
+      {
+        "text": "Pushback is constant. Tone feels dismissive. Boundaries are tested. This isn’t about the conversation, it's about credibility."
+      },
+      {
+        "text": "Adjust before you act."
+      }
+    ],
+    "back": [
+      {
+        "heading": "Leader adjustment",
+        "text": "• Stay grounded instead of defensive\n• Address behavior directly, not emotionally\n• Reinforce expectations through consistency"
+      },
+      {
+        "heading": "Ask yourself",
+        "text": "Am I trying to force respect or earn it?"
+      },
+      {
+        "text": "Respect follows clarity, not force."
+      }
+    ],
+    "related": [],
+    "sourcePage": 19
+  },
+  {
+    "id": "context-leading-a-former-peer",
+    "number": 32,
+    "category": "context",
+    "title": "Leading a Former Peer",
+    "front": [
+      {
+        "text": "The relationship has changed. Expectations feel awkward. Roles are unclear. You stepped into a new role, but never reset the relationship."
+      },
+      {
+        "text": "Adjust before you act."
+      }
+    ],
+    "back": [
+      {
+        "heading": "Leader adjustment",
+        "text": "• Acknowledge the shift openly - don’t pretend nothing changed\n• Set new expectations early: role, decision rights, standards\n• Avoid overcorrecting or overcompensating to “prove” authority"
+      },
+      {
+        "heading": "Ask yourself",
+        "text": "Am I avoiding clarity to protect the relationship, or creating clarity to protect the team?"
+      },
+      {
+        "text": "Role changes create confusion. Leaders offer clarity."
+      }
+    ],
+    "related": [],
+    "sourcePage": 19
+  },
+  {
+    "id": "context-leading-your-boss",
+    "number": 33,
+    "category": "context",
+    "title": "Leading Your Boss",
+    "front": [
+      {
+        "text": "Power dynamics are real. Stakes feel higher. Silence feels safer. You're trying to help, but how this sounds matters more than what you say."
+      },
+      {
+        "text": "Adjust before you act."
+      }
+    ],
+    "back": [
+      {
+        "heading": "Leader adjustment",
+        "text": "• Lead with alignment around outcomes, not position\n• Clarify expectations, priorities, and constraints\n• Frame concerns around outcomes, not opinions"
+      },
+      {
+        "heading": "Ask yourself",
+        "text": "Am I trying to be right, or trying to be effective?"
+      },
+      {
+        "text": "Upward leadership requires clarity and trust."
+      }
+    ],
+    "related": [],
+    "sourcePage": 20
+  },
+  {
+    "id": "context-leading-a-new-hire",
+    "number": 34,
+    "category": "context",
+    "title": "Leading a New Hire",
+    "front": [
+      {
+        "text": "They want to do well. Standards aren’t clear yet. Habits are forming. What you reinforce now becomes the baseline."
+      },
+      {
+        "text": "Adjust before you act."
+      }
+    ],
+    "back": [
+      {
+        "heading": "Leader adjustment",
+        "text": "• Be explicit instead of assuming understanding\n• Reinforce standards early, before habits set in\n• Normalize questions and feedback from day one"
+      },
+      {
+        "heading": "Ask yourself",
+        "text": "What behaviors am I unintentionally allowing to become the standard?"
+      },
+      {
+        "text": "Early clarity prevents difficult conversations later."
+      }
+    ],
+    "related": [],
+    "sourcePage": 20
+  },
+  {
+    "id": "context-leading-under-time-pressure",
+    "number": 35,
+    "category": "context",
+    "title": "Leading Under Time Pressure",
+    "front": [
+      {
+        "text": "Deadlines are tight. Stress is high. Speed feels urgent. When everything feels urgent, prioritization quietly disappears."
+      },
+      {
+        "text": "Adjust before you act."
+      }
+    ],
+    "back": [
+      {
+        "heading": "Leader adjustment",
+        "text": "• Slow your thinking even if action must be fast\n• Prioritize clarity over speed\n• Set the tone with calm and steady behavior"
+      },
+      {
+        "heading": "Ask yourself",
+        "text": "What needs clarity right now before anything else moves?"
+      },
+      {
+        "text": "You set the temperature for your team."
+      }
+    ],
+    "related": [],
+    "sourcePage": 21
+  },
+  {
+    "id": "context-leading-publicly",
+    "number": 36,
+    "category": "context",
+    "title": "Leading Publicly",
+    "front": [
+      {
+        "text": "Others are watching. Timing matters. Impact is amplified. Whatever you do here teaches more than you intend."
+      },
+      {
+        "text": "Adjust before you act."
+      }
+    ],
+    "back": [
+      {
+        "heading": "Leader adjustment",
+        "text": "• Protect dignity publicly\n• Address specifics privately\n• Be intentional about audience and timing"
+      },
+      {
+        "heading": "Ask yourself",
+        "text": "Am I trying to correct behavior, or protect trust in this moment?"
+      },
+      {
+        "text": "Public moments shape trust quickly."
+      }
+    ],
+    "related": [],
+    "sourcePage": 21
+  },
+  {
+    "id": "context-leading-when-trust-is-low",
+    "number": 37,
+    "category": "context",
+    "title": "Leading When Trust Is Low",
+    "front": [
+      {
+        "text": "Past issues linger. Intent is questioned. Progress feels fragile. This conversation won’t rebuild trust. What you do after it will."
+      },
+      {
+        "text": "Adjust before you act."
+      }
+    ],
+    "back": [
+      {
+        "heading": "Leader adjustment",
+        "text": "• Slow the pace before pushing forward\n• Address what broke trust directly\n• Stay consistent and rebuild trust before expecting change"
+      },
+      {
+        "heading": "Ask yourself",
+        "text": "Am I acknowledging and addressing the trust issue or ignoring it and hoping it goes away?"
+      },
+      {
+        "text": "Trust must be rebuilt before performance improves."
+      }
+    ],
+    "related": [],
+    "sourcePage": 22
+  },
+  {
+    "id": "context-leading-through-gossip-or-negativity",
+    "number": 38,
+    "category": "context",
+    "title": "Leading Through Gossip or Negativity",
+    "front": [
+      {
+        "text": "Side conversations spread. Trust erodes quietly. Energy drops. Silence here looks like permission."
+      },
+      {
+        "text": "Adjust before you act."
+      }
+    ],
+    "back": [
+      {
+        "heading": "Leader adjustment",
+        "text": "• Address behavior early and directly\n• Reinforce standards consistently - in public and private\n• Redirect negative conversations toward solutions"
+      },
+      {
+        "heading": "Ask yourself",
+        "text": "Am I allowing side conversations to replace direct ones?"
+      },
+      {
+        "text": "What goes unaddressed becomes normal."
+      }
+    ],
+    "related": [],
+    "sourcePage": 22
+  },
+  {
+    "id": "context-leading-when-standards-keep-slipping",
+    "number": 39,
+    "category": "context",
+    "title": "Leading When Standards Keep Slipping",
+    "front": [
+      {
+        "text": "Small misses accumulate. Tolerance increases. Expectations blur. What used to be “not okay” is starting to feel normal."
+      },
+      {
+        "text": "Adjust before you act."
+      }
+    ],
+    "back": [
+      {
+        "heading": "Leader adjustment",
+        "text": "• Re-anchor expectations clearly\n• Enforce standards consistently\n• Address drift before it becomes the standard"
+      },
+      {
+        "heading": "Ask yourself",
+        "text": "What have I been letting slide that I need to address this week?"
+      },
+      {
+        "text": "What's tolerated becomes what’s expected."
+      }
+    ],
+    "related": [],
+    "sourcePage": 23
+  },
+  {
+    "id": "context-leading-after-youve-let-things-slide",
+    "number": 40,
+    "category": "context",
+    "title": "Leading After You’ve Let Things Slide",
+    "front": [
+      {
+        "text": "No accountability. A reset is necessary. Time has made addressing it extremely uncomfortable. It feels awkward because you waited, not because you're wrong."
+      },
+      {
+        "text": "Adjust before you act."
+      }
+    ],
+    "back": [
+      {
+        "heading": "Leader adjustment",
+        "text": "• Own the accountability gap without defensiveness\n• Reset expectations explicitly\n• Follow through consistently"
+      },
+      {
+        "heading": "Ask yourself",
+        "text": "Am I prepared to fully commit to the reset and the necessary follow-through?"
+      },
+      {
+        "text": "Credibility comes back through consistency."
+      }
+    ],
+    "related": [],
+    "sourcePage": 23
+  }
+]

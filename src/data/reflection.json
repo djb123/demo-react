@@ -1,0 +1,314 @@
+[
+  {
+    "id": "reflection-reaction-vs-intention",
+    "number": 41,
+    "category": "reflection",
+    "title": "Reaction vs. Intention",
+    "front": [
+      {
+        "text": "Did you react or did you lead?"
+      }
+    ],
+    "back": [
+      {
+        "heading": "When you reacted",
+        "text": "You engaged before you were clear, and the message didn’t land."
+      },
+      {
+        "heading": "When you led",
+        "text": "You paused, chose the conversation deliberately, and the message landed with purpose."
+      },
+      {
+        "text": "How you respond is how you lead."
+      }
+    ],
+    "related": [],
+    "sourcePage": 24
+  },
+  {
+    "id": "reflection-emotional-awareness",
+    "number": 42,
+    "category": "reflection",
+    "title": "Emotional Awareness",
+    "front": [
+      {
+        "text": "What emotion was driving you?"
+      }
+    ],
+    "back": [
+      {
+        "heading": "When you led with emotion",
+        "text": "It leaked into your tone, timing, or urgency, and shifted the focus away from what you actually needed to say."
+      },
+      {
+        "heading": "When you led with awareness",
+        "text": "You noticed it, contained it, and chose your response so the message landed the way you intended."
+      },
+      {
+        "text": "Emotion shapes outcomes whether you notice it or not."
+      }
+    ],
+    "related": [],
+    "sourcePage": 24
+  },
+  {
+    "id": "reflection-avoided-conversations",
+    "number": 43,
+    "category": "reflection",
+    "title": "Avoided Conversations",
+    "front": [
+      {
+        "text": "What conversation did you choose not to have?"
+      }
+    ],
+    "back": [
+      {
+        "heading": "When you avoided it",
+        "text": "You told yourself it wasn't the right time and the issue quietly gained power."
+      },
+      {
+        "heading": "When you addressed it",
+        "text": "You created clarity, even if it was uncomfortable, and the problem stopped spreading."
+      },
+      {
+        "text": "What you avoid today shapes what you deal with tomorrow."
+      }
+    ],
+    "related": [],
+    "sourcePage": 25
+  },
+  {
+    "id": "reflection-hesitation-vs-action",
+    "number": 44,
+    "category": "reflection",
+    "title": "Hesitation vs. Action",
+    "front": [
+      {
+        "text": "Where did you hesitate instead of acting?"
+      }
+    ],
+    "back": [
+      {
+        "heading": "When you hesitated",
+        "text": "You waited for the moment to feel safer, and the issue quietly gained weight."
+      },
+      {
+        "heading": "When you acted",
+        "text": "You stepped into discomfort, named what mattered, and momentum returned."
+      },
+      {
+        "text": "Most leadership problems grow with silence."
+      }
+    ],
+    "related": [],
+    "sourcePage": 25
+  },
+  {
+    "id": "reflection-comfort-vs-clarity",
+    "number": 45,
+    "category": "reflection",
+    "title": "Comfort vs. Clarity",
+    "front": [
+      {
+        "text": "Did you choose comfort over clarity?"
+      }
+    ],
+    "back": [
+      {
+        "heading": "When you chose comfort",
+        "text": "You softened the message, avoided specifics, or delayed the conversation, and confusion filled the gap."
+      },
+      {
+        "heading": "When you chose clarity",
+        "text": "You named what needed to be said, even if it felt uncomfortable, and people knew exactly where you stood."
+      },
+      {
+        "text": "Avoiding tension doesn’t eliminate it."
+      }
+    ],
+    "related": [],
+    "sourcePage": 26
+  },
+  {
+    "id": "reflection-control-vs-listening",
+    "number": 46,
+    "category": "reflection",
+    "title": "Control vs. Listening",
+    "front": [
+      {
+        "text": "Did you try to understand or try to control?"
+      }
+    ],
+    "back": [
+      {
+        "heading": "When you tried to control",
+        "text": "You talked more than you listened, pushed for answers, and people complied without commitment."
+      },
+      {
+        "heading": "When you listened",
+        "text": "You slowed the conversation, asked before telling, and the real issue finally surfaced."
+      },
+      {
+        "text": "Control creates compliance. Listening creates ownership."
+      }
+    ],
+    "related": [],
+    "sourcePage": 26
+  },
+  {
+    "id": "reflection-assume-vs-clarify",
+    "number": 47,
+    "category": "reflection",
+    "title": "Assume vs. Clarify",
+    "front": [
+      {
+        "text": "What did you assume instead of clarify?"
+      }
+    ],
+    "back": [
+      {
+        "heading": "When you assumed",
+        "text": "You moved forward believing everyone was on the same page, and small gaps quietly turned into misalignment."
+      },
+      {
+        "heading": "When you clarified",
+        "text": "You slowed the moment, checked understanding, and prevented confusion before it became a bigger problem."
+      },
+      {
+        "text": "Assumptions can quickly turn into misinterpretations."
+      }
+    ],
+    "related": [],
+    "sourcePage": 27
+  },
+  {
+    "id": "reflection-pushing-vs-exploring",
+    "number": 48,
+    "category": "reflection",
+    "title": "Pushing vs. Exploring",
+    "front": [
+      {
+        "text": "What were you pushing for an outcome or exploring possibilities?"
+      }
+    ],
+    "back": [
+      {
+        "heading": "When you pushed for an outcome",
+        "text": "You steered the conversation toward agreement, talked past resistance, and people went quiet or pushed back."
+      },
+      {
+        "heading": "When you explored",
+        "text": "You stayed open, asked better questions, and created space for real buy-in to form."
+      },
+      {
+        "text": "The harder you push an outcome, the less ownership you create."
+      }
+    ],
+    "related": [],
+    "sourcePage": 27
+  },
+  {
+    "id": "reflection-symptom-vs-problem",
+    "number": 49,
+    "category": "reflection",
+    "title": "Symptom vs. Problem",
+    "front": [
+      {
+        "text": "What did you actually fix?"
+      }
+    ],
+    "back": [
+      {
+        "heading": "When you treated symptoms",
+        "text": "You solved what was visible in the moment, but the same issue kept showing up again."
+      },
+      {
+        "heading": "When you addressed the root",
+        "text": "You slowed down to understand what was driving it, and the pattern started to change instead of repeating."
+      },
+      {
+        "text": "Busy leaders often fix the wrong thing."
+      }
+    ],
+    "related": [],
+    "sourcePage": 28
+  },
+  {
+    "id": "reflection-let-it-slide-vs-held-the-line",
+    "number": 50,
+    "category": "reflection",
+    "title": "Let It Slide vs. Held the Line",
+    "front": [
+      {
+        "text": "What did you let slide?"
+      }
+    ],
+    "back": [
+      {
+        "heading": "When you let it slide",
+        "text": "You noticed it, told yourself it wasn't worth pushing yet, and unintentionally taught people the standard was flexible."
+      },
+      {
+        "heading": "When you held the line",
+        "text": "You followed up, reinforced what mattered, and your words carried weight again."
+      },
+      {
+        "text": "One mistake doesn’t kill the standards, but failure to reinforce them does."
+      }
+    ],
+    "related": [],
+    "sourcePage": 28
+  },
+  {
+    "id": "reflection-rescue-vs-ownership",
+    "number": 51,
+    "category": "reflection",
+    "title": "Rescue vs. Ownership",
+    "front": [
+      {
+        "text": "Who did the work - you or them?"
+      }
+    ],
+    "back": [
+      {
+        "heading": "When you rescued",
+        "text": "You became the solution, answered faster than necessary, and trained others to wait for you."
+      },
+      {
+        "heading": "When you created ownership",
+        "text": "You resisted stepping in, asked them to think it through, and progress continued without you."
+      },
+      {
+        "text": "Rescuing feels helpful, but creates dependence."
+      }
+    ],
+    "related": [],
+    "sourcePage": 29
+  },
+  {
+    "id": "reflection-unhealthy-patterns",
+    "number": 52,
+    "category": "reflection",
+    "title": "Unhealthy Patterns",
+    "front": [
+      {
+        "text": "Did you ignore or address unhealthy patterns?"
+      }
+    ],
+    "back": [
+      {
+        "heading": "When you ignored the patterns",
+        "text": "You dealt with the same issue again, and each time it took more energy and more trust to address it."
+      },
+      {
+        "heading": "When you addressed the patterns",
+        "text": "You interrupted the cycle, changed your behavior, and made the next conversation clearer instead of harder."
+      },
+      {
+        "text": "Unhealthy patterns don’t change until they're addressed."
+      }
+    ],
+    "related": [],
+    "sourcePage": 29
+  }
+]
