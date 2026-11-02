@@ -1,0 +1,556 @@
+[
+  {
+    "id": "situation-accountability-avoidance",
+    "number": 1,
+    "category": "situation",
+    "title": "Accountability Avoidance",
+    "front": [
+      {
+        "text": "Issues are known. Conversations are delayed. Standards are bending. What you don’t say is becoming the rule."
+      },
+      {
+        "text": "Pause before reacting."
+      }
+    ],
+    "back": [
+      {
+        "heading": "IF expectations keep needing to be reset",
+        "text": "THEN choose an ALIGNMENT Card."
+      },
+      {
+        "heading": "IF commitments are missed and not addressed repeatedly",
+        "text": "THEN choose a FEEDBACK Card."
+      },
+      {
+        "heading": "IF you keep having to step in to do the work",
+        "text": "THEN choose a COACHING Card."
+      },
+      {
+        "text": "What you allow becomes the standard."
+      }
+    ],
+    "related": [
+      "conversation-alignment",
+      "conversation-feedback",
+      "conversation-coaching"
+    ],
+    "sourcePage": 4
+  },
+  {
+    "id": "situation-silence-or-withdrawal",
+    "number": 2,
+    "category": "situation",
+    "title": "Silence or Withdrawal",
+    "front": [
+      {
+        "text": "People stop speaking up. Ideas disappear. Engagement fades. Silence is a response, not a lack of ideas."
+      },
+      {
+        "text": "Pause before reacting."
+      }
+    ],
+    "back": [
+      {
+        "heading": "IF someone stays quiet even when invited to contribute",
+        "text": "THEN choose a COACHING Card."
+      },
+      {
+        "heading": "IF ideas stop showing up across the team",
+        "text": "THEN choose a CULTURE Card."
+      },
+      {
+        "heading": "IF silence started after tension or disagreement",
+        "text": "THEN choose a CONFLICT RESOLUTION Card."
+      },
+      {
+        "text": "Silence is a signal."
+      }
+    ],
+    "related": [
+      "conversation-coaching",
+      "conversation-culture",
+      "conversation-conflict-resolution"
+    ],
+    "sourcePage": 4
+  },
+  {
+    "id": "situation-passive-resistance",
+    "number": 3,
+    "category": "situation",
+    "title": "Passive Resistance",
+    "front": [
+      {
+        "text": "Agreement in meetings. Resistance after. Momentum disappears. Agreement isn’t commitment."
+      },
+      {
+        "text": "Pause before reacting."
+      }
+    ],
+    "back": [
+      {
+        "heading": "IF decisions were discussed but never truly owned",
+        "text": "THEN choose a DECISION-MAKING Card."
+      },
+      {
+        "heading": "IF the “why” behind the decision isn’t clear",
+        "text": "THEN choose a CHANGE Card."
+      },
+      {
+        "heading": "IF one person keeps undermining the decision after the meeting",
+        "text": "THEN choose a FEEDBACK Card."
+      },
+      {
+        "text": "Unaddressed passive resistance grows into active resistance."
+      }
+    ],
+    "related": [
+      "conversation-decision-making",
+      "conversation-change",
+      "conversation-feedback"
+    ],
+    "sourcePage": 5
+  },
+  {
+    "id": "situation-low-performance",
+    "number": 4,
+    "category": "situation",
+    "title": "Low Performance",
+    "front": [
+      {
+        "text": "Results are slipping. Deadlines are missed. Quality is inconsistent. Pushing harder hasn’t fixed this."
+      },
+      {
+        "text": "Pause before reacting."
+      }
+    ],
+    "back": [
+      {
+        "heading": "IF the work is getting done, but the results aren’t improving",
+        "text": "THEN choose an ALIGNMENT Card."
+      },
+      {
+        "heading": "IF standards are clear, but performance is still below them",
+        "text": "THEN choose a FEEDBACK Card."
+      },
+      {
+        "heading": "IF they're trying, but progress feels stalled or uneven",
+        "text": "THEN choose a MOTIVATION & STRENGTHS Card."
+      },
+      {
+        "text": "Low performance requires diagnosis, not pressure."
+      }
+    ],
+    "related": [
+      "conversation-alignment",
+      "conversation-feedback",
+      "conversation-motivation-strengths"
+    ],
+    "sourcePage": 5
+  },
+  {
+    "id": "situation-burnout-signals",
+    "number": 5,
+    "category": "situation",
+    "title": "Burnout Signals",
+    "front": [
+      {
+        "text": "Energy is fading. Engagement is dropping. Care is disappearing. Pushing harder might make this worse."
+      },
+      {
+        "text": "Pause before reacting."
+      }
+    ],
+    "back": [
+      {
+        "heading": "IF motivation has shifted or energy feels flat",
+        "text": "THEN choose a MOTIVATION & STRENGTHS Card."
+      },
+      {
+        "heading": "IF the work no longer feels meaningful",
+        "text": "THEN choose a GROWTH Card."
+      },
+      {
+        "heading": "IF workload no longer matches capacity or priorities",
+        "text": "THEN choose an ALIGNMENT Card."
+      },
+      {
+        "text": "Burnout is a signal, not a flaw."
+      }
+    ],
+    "related": [
+      "conversation-motivation-strengths",
+      "conversation-growth",
+      "conversation-alignment"
+    ],
+    "sourcePage": 6
+  },
+  {
+    "id": "situation-growth-uncertainty",
+    "number": 6,
+    "category": "situation",
+    "title": "Growth Uncertainty",
+    "front": [
+      {
+        "text": "“What’s next?” keeps coming up. Motivation is wavering. The path is unclear. They don’t know what this is leading to."
+      },
+      {
+        "text": "Pause before reacting."
+      }
+    ],
+    "back": [
+      {
+        "heading": "IF they don't feel challenged",
+        "text": "THEN choose a GROWTH Card."
+      },
+      {
+        "heading": "IF effort is there, but energy isn’t",
+        "text": "THEN choose a MOTIVATION & STRENGTHS Card."
+      },
+      {
+        "heading": "IF what success looks like next is unclear",
+        "text": "THEN choose a ALIGNMENT Card."
+      },
+      {
+        "text": "Growth needs direction, not promises."
+      }
+    ],
+    "related": [
+      "conversation-growth",
+      "conversation-motivation-strengths",
+      "conversation-alignment"
+    ],
+    "sourcePage": 6
+  },
+  {
+    "id": "situation-high-performer-problems",
+    "number": 7,
+    "category": "situation",
+    "title": "High Performer Problems",
+    "front": [
+      {
+        "text": "Results are strong. Behavior is costly. Others are frustrated. The results are masking a real issue."
+      },
+      {
+        "text": "Pause before reacting."
+      }
+    ],
+    "back": [
+      {
+        "heading": "IF results are strong but behavior is hurting the team",
+        "text": "THEN choose a FEEDBACK Card."
+      },
+      {
+        "heading": "IF standards feel unfair because high performers get a pass",
+        "text": "THEN choose a CULTURE Card."
+      },
+      {
+        "heading": "IF growth has stalled despite high output",
+        "text": "THEN choose a GROWTH Card."
+      },
+      {
+        "text": "Performance never excuses bad behavior."
+      }
+    ],
+    "related": [
+      "conversation-feedback",
+      "conversation-culture",
+      "conversation-growth"
+    ],
+    "sourcePage": 7
+  },
+  {
+    "id": "situation-bad-attitude",
+    "number": 8,
+    "category": "situation",
+    "title": "Bad Attitude",
+    "front": [
+      {
+        "text": "Tone is negative. Energy feels off. Others are impacted. This tone and behavior is affecting more than you think."
+      },
+      {
+        "text": "Pause before reacting."
+      }
+    ],
+    "back": [
+      {
+        "heading": "IF standards were never clarified",
+        "text": "THEN choose a CULTURE Card."
+      },
+      {
+        "heading": "IF behavior violates expectations",
+        "text": "THEN choose a FEEDBACK Card."
+      },
+      {
+        "heading": "IF negativity increased after a change",
+        "text": "THEN choose a CHANGE Card."
+      },
+      {
+        "text": "Behavior shapes culture faster than words."
+      }
+    ],
+    "related": [
+      "conversation-culture",
+      "conversation-feedback",
+      "conversation-change"
+    ],
+    "sourcePage": 7
+  },
+  {
+    "id": "situation-lack-of-ownership",
+    "number": 9,
+    "category": "situation",
+    "title": "Lack of Ownership",
+    "front": [
+      {
+        "text": "Tasks get done. Initiative is missing. Everything comes back to you. You've been stepping in and now they’re waiting for you."
+      },
+      {
+        "text": "Pause before reacting."
+      }
+    ],
+    "back": [
+      {
+        "heading": "IF people wait to be told what to do",
+        "text": "THEN choose a COACHING Card."
+      },
+      {
+        "heading": "IF initiative drops once tasks are assigned",
+        "text": "THEN choose a MOTIVATION & STRENGTHS Card."
+      },
+      {
+        "heading": "IF ownership was never defined",
+        "text": "THEN choose an ALIGNMENT Card."
+      },
+      {
+        "text": "Managers teach tasks, Leaders invite ownership."
+      }
+    ],
+    "related": [
+      "conversation-coaching",
+      "conversation-motivation-strengths",
+      "conversation-alignment"
+    ],
+    "sourcePage": 8
+  },
+  {
+    "id": "situation-role-confusion",
+    "number": 10,
+    "category": "situation",
+    "title": "Role Confusion",
+    "front": [
+      {
+        "text": "Work overlaps. Things fall through. Tension is building. No one’s sure who owns what, and it shows."
+      },
+      {
+        "text": "Pause before reacting."
+      }
+    ],
+    "back": [
+      {
+        "heading": "IF expectations were assumed instead of defined",
+        "text": "THEN choose a ALIGNMENT Card."
+      },
+      {
+        "heading": "IF the role doesn’t fit someone’s strengths",
+        "text": "THEN choose a MOTIVATION & STRENGTHS Card."
+      },
+      {
+        "heading": "IF boundaries keep getting crossed or blurred",
+        "text": "THEN choose a FEEDBACK Card."
+      },
+      {
+        "text": "Clarity reduces friction."
+      }
+    ],
+    "related": [
+      "conversation-alignment",
+      "conversation-motivation-strengths",
+      "conversation-feedback"
+    ],
+    "sourcePage": 8
+  },
+  {
+    "id": "situation-team-conflict",
+    "number": 11,
+    "category": "situation",
+    "title": "Team Conflict",
+    "front": [
+      {
+        "text": "Tensions are high. Collaboration is fading. The issue isn’t resolving. If you don’t step in, the team will keep picking sides."
+      },
+      {
+        "text": "Pause before reacting."
+      }
+    ],
+    "back": [
+      {
+        "heading": "IF misunderstanding exists",
+        "text": "THEN choose a CONFLICT RESOLUTION Card."
+      },
+      {
+        "heading": "IF behavior violates team values",
+        "text": "THEN choose a CULTURE Card."
+      },
+      {
+        "heading": "IF one person is driving it",
+        "text": "THEN choose a FEEDBACK Card."
+      },
+      {
+        "text": "When handled properly, conflict creates opportunity for growth."
+      }
+    ],
+    "related": [
+      "conversation-conflict-resolution",
+      "conversation-culture",
+      "conversation-feedback"
+    ],
+    "sourcePage": 9
+  },
+  {
+    "id": "situation-culture-drift",
+    "number": 12,
+    "category": "situation",
+    "title": "Culture Drift",
+    "front": [
+      {
+        "text": "Standards are slipping. Behaviors are tolerated. Trust is eroding. What you let slide is now becoming the culture."
+      },
+      {
+        "text": "Pause before reacting."
+      }
+    ],
+    "back": [
+      {
+        "heading": "IF values weren't clearly established or reinforced",
+        "text": "THEN choose a CULTURE Card."
+      },
+      {
+        "heading": "IF behavior keeps crossing the line",
+        "text": "THEN choose a FEEDBACK Card."
+      },
+      {
+        "heading": "IF a recent change has shifted norms",
+        "text": "THEN choose a CHANGE Card."
+      },
+      {
+        "text": "Culture drifts when leaders stay silent."
+      }
+    ],
+    "related": [
+      "conversation-culture",
+      "conversation-feedback",
+      "conversation-change"
+    ],
+    "sourcePage": 9
+  },
+  {
+    "id": "situation-change-resistance",
+    "number": 13,
+    "category": "situation",
+    "title": "Change Resistance",
+    "front": [
+      {
+        "text": "Pushback is growing. Energy is draining. Uncertainty is high. Resistance is often information, not defiance."
+      },
+      {
+        "text": "Pause before reacting."
+      }
+    ],
+    "back": [
+      {
+        "heading": "IF the reason for the change isn’t clear",
+        "text": "THEN choose a CHANGE Card."
+      },
+      {
+        "heading": "IF people don’t see how they win after the change",
+        "text": "THEN choose a GROWTH Card."
+      },
+      {
+        "heading": "IF resistance shows up in behavior",
+        "text": "THEN choose a FEEDBACK Card."
+      },
+      {
+        "text": "Resistance is a sign to dig deeper."
+      }
+    ],
+    "related": [
+      "conversation-change",
+      "conversation-growth",
+      "conversation-feedback"
+    ],
+    "sourcePage": 10
+  },
+  {
+    "id": "situation-decision-gridlock",
+    "number": 14,
+    "category": "situation",
+    "title": "Decision Gridlock",
+    "front": [
+      {
+        "text": "Discussions repeat. Ownership is unclear. Nothing moves forward. Discussion is happening, decisions aren't."
+      },
+      {
+        "text": "Pause before reacting."
+      }
+    ],
+    "back": [
+      {
+        "heading": "IF the decision isn’t defined",
+        "text": "THEN choose a DECISION-MAKING Card."
+      },
+      {
+        "heading": "IF buy-in or commitment is missing after a decision",
+        "text": "THEN choose a DECISION-MAKING Card."
+      },
+      {
+        "heading": "IF execution lacks ownership",
+        "text": "THEN choose an ALIGNMENT Card."
+      },
+      {
+        "text": "Stalled decisions create fatigue."
+      }
+    ],
+    "related": [
+      "conversation-decision-making",
+      "conversation-alignment"
+    ],
+    "sourcePage": 10
+  },
+  {
+    "id": "situation-project-breakdown",
+    "number": 15,
+    "category": "situation",
+    "title": "Project Breakdown",
+    "front": [
+      {
+        "text": "Progress has stalled. Ownership is unclear. Frustration is rising. The plan didn’t fall apart, the handoffs did."
+      },
+      {
+        "text": "Pause before reacting."
+      }
+    ],
+    "back": [
+      {
+        "heading": "IF roles or priorities are unclear",
+        "text": "THEN choose an ALIGNMENT Card."
+      },
+      {
+        "heading": "IF project decisions are stuck",
+        "text": "THEN choose a DECISION-MAKING Card."
+      },
+      {
+        "heading": "IF commitments aren’t met",
+        "text": "THEN choose a FEEDBACK Card."
+      },
+      {
+        "text": "Most project failures are conversation failures."
+      }
+    ],
+    "related": [
+      "conversation-alignment",
+      "conversation-decision-making",
+      "conversation-feedback"
+    ],
+    "sourcePage": 11
+  }
+]

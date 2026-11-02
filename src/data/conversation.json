@@ -1,0 +1,395 @@
+[
+  {
+    "id": "conversation-alignment",
+    "number": 16,
+    "category": "conversation",
+    "title": "Alignment",
+    "front": [
+      {
+        "text": "Lead with clarity, not assumptions."
+      },
+      {
+        "heading": "BCS Model",
+        "text": "Benefits → Challenges → Solutions"
+      }
+    ],
+    "back": [
+      {
+        "heading": "BENEFITS",
+        "text": "What do we gain if we're fully aligned on this?"
+      },
+      {
+        "heading": "CHALLENGES",
+        "text": "What's getting in the way of us being aligned right now? What barriers do we anticipate?"
+      },
+      {
+        "heading": "SOLUTIONS",
+        "text": "How do we create alignment between each other?"
+      },
+      {
+        "heading": "Before you have the conversation",
+        "text": "Check the CONTEXT Cards and adjust if necessary."
+      }
+    ],
+    "related": [],
+    "sourcePage": 11
+  },
+  {
+    "id": "conversation-feedback",
+    "number": 17,
+    "category": "conversation",
+    "title": "Feedback",
+    "front": [
+      {
+        "text": "Address behavior, not emotion."
+      },
+      {
+        "heading": "SBIP Model",
+        "text": "Situation → Behavior → Impact → Plan"
+      },
+      {
+        "text": "Based on the SBI model developed by the Center for Creative Leadership."
+      }
+    ],
+    "back": [
+      {
+        "heading": "SITUATION",
+        "text": "What specific moment, meeting, or pattern are we addressing? When and where did it occur?"
+      },
+      {
+        "heading": "BEHAVIOR",
+        "text": "What was said or done that I directly observed? What are the facts, not interpretations?"
+      },
+      {
+        "heading": "IMPACT",
+        "text": "What effect did that behavior have on results, trust, or the team? What is the cost if this continues?"
+      },
+      {
+        "heading": "PLAN (Co-Create)",
+        "text": "What needs to change going forward? What specific commitment are we agreeing to so this doesn’t happen again?"
+      },
+      {
+        "heading": "Before you have the conversation",
+        "text": "Check the CONTEXT Cards and adjust if necessary."
+      }
+    ],
+    "related": [],
+    "sourcePage": 12
+  },
+  {
+    "id": "conversation-coaching",
+    "number": 18,
+    "category": "conversation",
+    "title": "Coaching",
+    "front": [
+      {
+        "text": "Develop thinking, not dependency."
+      },
+      {
+        "heading": "3 C’s Framework",
+        "text": "Curiosity → Clarity → Co-Creation"
+      }
+    ],
+    "back": [
+      {
+        "heading": "CURIOSITY",
+        "text": "How do you see this situation right now?"
+      },
+      {
+        "heading": "CLARITY",
+        "text": "What does “good” look like here?"
+      },
+      {
+        "heading": "CO-CREATION",
+        "text": "What do you think needs to happen next to get there? What are you willing to commit to owning?"
+      },
+      {
+        "heading": "Before you have the conversation",
+        "text": "Check the CONTEXT Cards and adjust if necessary."
+      }
+    ],
+    "related": [],
+    "sourcePage": 12
+  },
+  {
+    "id": "conversation-motivation-strengths",
+    "number": 19,
+    "category": "conversation",
+    "title": "Motivation & Strengths",
+    "front": [
+      {
+        "text": "Understand the MINE before applying pressure."
+      },
+      {
+        "heading": "MINE Model",
+        "text": "Motivation → Interests & Strengths → Needs → Environment"
+      }
+    ],
+    "back": [
+      {
+        "heading": "MOTIVATION",
+        "text": "What's currently giving you energy at work? What's been consistently draining it?"
+      },
+      {
+        "heading": "INTERESTS & STRENGTHS",
+        "text": "Where do your strengths create the most value in this role or work? Where are we under-using those strengths?"
+      },
+      {
+        "heading": "NEEDS",
+        "text": "What support, clarity, or constraints would help you perform at your best?"
+      },
+      {
+        "heading": "ENVIRONMENT",
+        "text": "What conditions are helping your performance? What conditions are quietly working against it?"
+      },
+      {
+        "heading": "Before you have the conversation",
+        "text": "Check the CONTEXT Cards and adjust if necessary."
+      }
+    ],
+    "related": [],
+    "sourcePage": 13
+  },
+  {
+    "id": "conversation-growth",
+    "number": 20,
+    "category": "conversation",
+    "title": "Growth",
+    "front": [
+      {
+        "text": "Shift thinking from today’s tasks to tomorrow’s impact."
+      },
+      {
+        "heading": "JCP Framework",
+        "text": "Job → Career → Purpose"
+      }
+    ],
+    "back": [
+      {
+        "heading": "JOB",
+        "text": "What capabilities are you building in this role right now?"
+      },
+      {
+        "heading": "CAREER",
+        "text": "What kind of influence or responsibility do you want over time?"
+      },
+      {
+        "heading": "PURPOSE",
+        "text": "What kind of impact do you want to be known for making?"
+      },
+      {
+        "heading": "DIRECTION (Co-Create)",
+        "text": "What competencies do we need to build next to move you in that direction together?"
+      },
+      {
+        "heading": "After this conversation",
+        "text": "Capture next steps in an Individual Development Plan (IDP)"
+      },
+      {
+        "heading": "Before you have the conversation",
+        "text": "Check the CONTEXT Cards and adjust if necessary."
+      }
+    ],
+    "related": [],
+    "sourcePage": 13
+  },
+  {
+    "id": "conversation-change",
+    "number": 21,
+    "category": "conversation",
+    "title": "Change",
+    "front": [
+      {
+        "text": "Lead through uncertainty, not around it."
+      },
+      {
+        "heading": "WTC Model",
+        "text": "Why → Transparency → Control"
+      }
+    ],
+    "back": [
+      {
+        "heading": "WHY",
+        "text": "What problem or opportunity is this change meant to address? Why does this matter now, not later?"
+      },
+      {
+        "heading": "TRANSPARENCY",
+        "text": "What do we know today? What don’t we know yet? What is still evolving or undecided?"
+      },
+      {
+        "heading": "CONTROL",
+        "text": "What is within our control right now? Where do we still have influence, even without certainty?"
+      },
+      {
+        "heading": "Before you have the conversation",
+        "text": "Check the CONTEXT Cards and adjust if necessary."
+      }
+    ],
+    "related": [],
+    "sourcePage": 14
+  },
+  {
+    "id": "conversation-conflict-resolution",
+    "number": 22,
+    "category": "conversation",
+    "title": "Conflict Resolution",
+    "front": [
+      {
+        "text": "Resolve the issue, not the emotion."
+      },
+      {
+        "heading": "DEAL Method",
+        "text": "Discover → Empathize → Align → Lock in"
+      }
+    ],
+    "back": [
+      {
+        "heading": "DISCOVER",
+        "text": "What does each person believe is happening right now? What facts or events are they pointing to?"
+      },
+      {
+        "heading": "EMPATHIZE",
+        "text": "How is this affecting each person's work, trust, or ability to collaborate?"
+      },
+      {
+        "heading": "ALIGN",
+        "text": "Where can we agree on what needs to change going forward? What does a better working dynamic look like?"
+      },
+      {
+        "heading": "LOCK IN",
+        "text": "(On Next Steps & Mini-Commitments) What commitments are we each making? How will we hold each other accountable?"
+      },
+      {
+        "heading": "Before you have the conversation",
+        "text": "Check the CONTEXT Cards and adjust if necessary."
+      }
+    ],
+    "related": [],
+    "sourcePage": 14
+  },
+  {
+    "id": "conversation-decision-making",
+    "number": 23,
+    "category": "conversation",
+    "title": "Decision-Making",
+    "front": [
+      {
+        "text": "Clarity beats consensus."
+      },
+      {
+        "heading": "DECIDE Model",
+        "text": "Define → Explore → Consider → Identify → Decide Without Delay → Evaluate"
+      }
+    ],
+    "back": [
+      {
+        "heading": "DEFINE",
+        "text": "What decision are we actually making here?"
+      },
+      {
+        "heading": "EXPLORE",
+        "text": "What options are on the table right now?"
+      },
+      {
+        "heading": "CONSIDER",
+        "text": "What are tradeoffs and what's the impact?"
+      },
+      {
+        "heading": "IDENTIFY",
+        "text": "Who owns the decision?"
+      },
+      {
+        "heading": "DECIDE WITHOUT DELAY",
+        "text": "What decision can we commit to now, knowing we can adjust later?"
+      },
+      {
+        "heading": "EVALUATE",
+        "text": "How and when will we review the outcome?"
+      },
+      {
+        "heading": "Before you have the conversation",
+        "text": "Check the CONTEXT Cards and adjust if necessary."
+      }
+    ],
+    "related": [],
+    "sourcePage": 15
+  },
+  {
+    "id": "conversation-culture",
+    "number": 24,
+    "category": "conversation",
+    "title": "Culture",
+    "front": [
+      {
+        "text": "Build culture with people, not for them."
+      },
+      {
+        "heading": "VBC Model",
+        "text": "Values → Behaviors → Commitments"
+      }
+    ],
+    "back": [
+      {
+        "heading": "VALUES",
+        "text": "What values matter most to you at work, based on teams you've loved being part of? When those values were missing in the past, what did it cost the team?"
+      },
+      {
+        "heading": "BEHAVIORS",
+        "text": "If these values are real, what behaviors should we consistently see? What behaviors clearly violate these values or cross the line?"
+      },
+      {
+        "heading": "COMMITMENTS",
+        "text": "What commitments are we making to each other to uphold these values? How will we reinforce this when it's lived out and address it when it's not?"
+      },
+      {
+        "heading": "Before you have the conversation",
+        "text": "Check the CONTEXT Cards and adjust if necessary."
+      }
+    ],
+    "related": [],
+    "sourcePage": 15
+  },
+  {
+    "id": "conversation-recognition",
+    "number": 25,
+    "category": "conversation",
+    "title": "Recognition",
+    "front": [
+      {
+        "text": "Reinforce what you want repeated."
+      },
+      {
+        "heading": "STYLE Model",
+        "text": "Specific → Tailored → Why → Land → Echo"
+      }
+    ],
+    "back": [
+      {
+        "heading": "SPECIFIC",
+        "text": "What did they do, exactly? Name the behavior you want repeated."
+      },
+      {
+        "heading": "TAILORED",
+        "text": "How do they want to be recognized? Public or private. Written or verbal."
+      },
+      {
+        "heading": "WHY",
+        "text": "Why did it matter? Connect it to results, the team, or culture."
+      },
+      {
+        "heading": "LAND",
+        "text": "Deliver it clearly and at the right moment. Be direct. Be human. Don’t dilute it."
+      },
+      {
+        "heading": "ECHO",
+        "text": "Bring it up again when it counts. Reinforce it in meetings or follow-ups."
+      },
+      {
+        "heading": "Before you have the conversation",
+        "text": "Check the CONTEXT Cards and adjust if necessary."
+      }
+    ],
+    "related": [],
+    "sourcePage": 16
+  }
+]
